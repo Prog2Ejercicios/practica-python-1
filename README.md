@@ -13,11 +13,12 @@ Se debe de tener en cuenta:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-Grupo nro  : X
-Comisión   : X
+Grupo nro  : 4
+Comisión   : 4
 Integrantes:
 
--Legajo, Nombre y apellido
--Legajo, Nombre y apellido
--Legajo, Nombre y apellido
-...
+-50811 ,Elias Gonzalez       
+-50582 ,Franco Valenti
+-50561 ,Maximiliano Shea
+-50810 ,Pablo Alvarez 
+-50608 ,Pairone Giuliano
