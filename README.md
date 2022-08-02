@@ -13,11 +13,11 @@ Se debe de tener en cuenta:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-Grupo nro  : X
-Comisión   : X
-Integrantes:
+Grupo nro  : 9
+Comisión   : 4
+Integrantes: 4
 
--Legajo, Nombre y apellido
--Legajo, Nombre y apellido
--Legajo, Nombre y apellido
-...
+-50625, Bruno Menna
+-50512, Nihuel Spinelli
+-50505, Francisco urquiza
+-50622, Guido Montenegro
