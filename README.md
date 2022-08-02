@@ -13,11 +13,12 @@ Se debe de tener en cuenta:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-Grupo nro  : X
-Comisión   : X
+Grupo nro  : 1
+Comisión   : 4
 Integrantes:
 
--Legajo, Nombre y apellido
--Legajo, Nombre y apellido
--Legajo, Nombre y apellido
+-50.619 Moyano, Juan Ignacio
+-50.504 Vaccaro, Virginia
+-50.590 Romero, Franco Nahuel
+-50.643 Zarini, Leonel Andres
 ...
