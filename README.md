@@ -13,11 +13,11 @@ Se debe de tener en cuenta:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-Grupo nro  : X
-Comisión   : X
+Grupo nro  : 5
+Comisión   : 4
 Integrantes:
 
--Legajo, Nombre y apellido
--Legajo, Nombre y apellido
--Legajo, Nombre y apellido
-...
+-50595, Alan Rojas
+-50601, Sebastian Ramirez
+-50576, Luciano Santini
+-50567, Martin Segnini
