@@ -13,11 +13,11 @@ Se debe de tener en cuenta:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-Grupo nro  : X
-Comisión   : X
-Integrantes:
+Grupo nro  : 3
+Comisión   : 3
+Integrantes: Salvador Alvarez, Sebastian Helguero, Juan Pablo de Guevara, Juan Pablo Fuentes, Nicolas Claverol
 
--Legajo, Nombre y apellido
--Legajo, Nombre y apellido
--Legajo, Nombre y apellido
-...
+-49.964, Salvador Alvarez
+-50.624, Sebastian Helguero
+-50.542, Juan Pablo de Guevara
+-50.647, Juan Pablo Fuentes
