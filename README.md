@@ -13,11 +13,12 @@ Se debe de tener en cuenta:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-Grupo nro  : X
-Comisión   : X
-Integrantes:
+Grupo nro  : 8
+Comisión   : 3
+Integrantes: 5
 
--Legajo, Nombre y apellido
--Legajo, Nombre y apellido
--Legajo, Nombre y apellido
-...
+-50533, Thiago Cingolani
+-50520, Santiago Beron
+-50641, Lucas Lodigiani
+-50588, Agustin Gaiteri
+-50572, Marcos Fiorito
