@@ -13,11 +13,11 @@ Se debe de tener en cuenta:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-Grupo nro  : X
-Comisión   : X
-Integrantes:
+Grupo nro  : 2
+Comisión   : 3
+Integrantes: 4
 
--Legajo, Nombre y apellido
--Legajo, Nombre y apellido
--Legajo, Nombre y apellido
-...
+-50484, Aguirre Ulises
+-50539, Cura Azul
+-50640, Casa Nicolas
+-50543, Del Balzo Gonzalo
