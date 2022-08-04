@@ -13,11 +13,11 @@ Se debe de tener en cuenta:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-Grupo nro  : X
-Comisión   : X
+Grupo nro  : 3
+Comisión   : 3
 Integrantes:
 
--Legajo, Nombre y apellido
--Legajo, Nombre y apellido
--Legajo, Nombre y apellido
+-50574, Fracassi Marcelo
+-50523, Bruzzo Luca
+-51311, Pagnanini Juan Ignacio
 ...
