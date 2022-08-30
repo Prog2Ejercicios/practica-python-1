@@ -1,0 +1,8 @@
+print("Por favor ingrese un numero")
+n1=int(input())
+print("Por favor ingrese un segundo numero")
+n2=int(input())
+print("La suma: " + str(n1+n2))
+print("La resta: " + str(n1-n2))
+print("La division: " + str(n1/n2))
+print("La multiplicacion: " + str(n1*n2))
